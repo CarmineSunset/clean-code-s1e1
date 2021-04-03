@@ -21,9 +21,13 @@ body {
 }
 
 @media (max-width:768px) {
+
+
   .matrix {
     text-align: center;
   }
+
+  
 }
 
 .centered-main-page-el {
