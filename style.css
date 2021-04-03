@@ -5,6 +5,7 @@ body {
   font-family: Lato, sans-serif;
 }
 
+
 .matrix {
   width: 500px;
   margin: 0 auto;
@@ -27,7 +28,7 @@ body {
     text-align: center;
   }
 
-  
+
 }
 
 .centered-main-page-el {
